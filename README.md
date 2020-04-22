@@ -1,4 +1,4 @@
-# python-tutorial-notes
+# opencv-tutorial-notes
 
 This is my personal learning note of [OpenCV-Python Tutorials](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html) for beginners. 
 
