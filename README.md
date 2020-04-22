@@ -6,21 +6,22 @@ It starts from **"Basic Operate"** to **"Machine Learning"** step by step.
 
 At last, I concluded a mind map of this tutorial.
 
-## Mind Map
-
-
-
 ## Run Sample
 
 Running sample should use "cwd" as work directory. 
 
 ```SH
-cd python-tutorial-notes/cwd
-python ../gui/images.py
+cd opencv-tutorial-notes/cwd
+python ../02-gui/01-images.py 
 ```
+
+## Mind Map
+
+![OpenCV](https://raw.githubusercontent.com/AlanLi7991/opencv-turtorial-notes/master/xmind/OpenCV.jpg)
+
 
 ## Notes
 
 Most of notes are comment at code file.
 
-Documents about feature, camera, machine learning also publicized on [my blog](http://alanli7991.github.io) and written by English.
+Documents about feature, camera, machine learning also publicized on [my blog](http://alanli7991.github.io/2020/03/20/OpenCV00读书笔记/) and written by English.
